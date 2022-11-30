@@ -1,0 +1,6 @@
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\BC_Facturadora\bin\Debug\BC_Facturadora.dll
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\BC_Facturadora\bin\Debug\BC_Facturadora.pdb
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\BC_Facturadora\obj\Debug\BC_Facturadora.csprojAssemblyReference.cache
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\BC_Facturadora\obj\Debug\BC_Facturadora.csproj.CoreCompileInputs.cache
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\BC_Facturadora\obj\Debug\BC_Facturadora.dll
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\BC_Facturadora\obj\Debug\BC_Facturadora.pdb

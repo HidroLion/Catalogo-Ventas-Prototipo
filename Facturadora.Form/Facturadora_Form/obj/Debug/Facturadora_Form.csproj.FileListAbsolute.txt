@@ -1,0 +1,13 @@
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\bin\Debug\Facturadora_Form.exe.config
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\bin\Debug\Facturadora_Form.exe
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\bin\Debug\Facturadora_Form.pdb
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.csprojAssemblyReference.cache
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.Properties.Resources.resources
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.csproj.GenerateResource.cache
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.csproj.CoreCompileInputs.cache
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.exe
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.pdb
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.Tienda.resources
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\bin\Debug\BC_Facturadora.dll
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\bin\Debug\BC_Facturadora.pdb
+C:\Users\ewe\Desktop\UPB\Semestre 4\POO\Final POO\Facturadora.Form\Facturadora_Form\obj\Debug\Facturadora_Form.csproj.CopyComplete

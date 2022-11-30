@@ -1,0 +1,9 @@
+Zapatos Deportivos|A-12403|449900
+Camiseta Gimnasia|A-12404|200000
+Sudadera|A-12405|149000
+Balon de futbol|B-12454|180000
+Raqueta de Tennis|B-12455|150000
+Pelotas de Tennis|B-12456|24990
+Vitamina C|C-13456|49990
+Proteinas Capsula|C-13457|65590
+Proteinas Polvo|C-13458|45290
